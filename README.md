@@ -1,4 +1,4 @@
-# Clawswaps API Documentation
+# Clawap Exchange API Documentation
 
 Build powerful trading applications with our comprehensive REST and WebSocket APIs. Access real-time pricing, execute swaps, and manage wallets programmatically.
 
@@ -353,12 +353,12 @@ Subscribe to orderbook updates for a trading pair.
 
 - **Website:** [https://clawswaps.xyz](https://clawswaps.xyz)
 - **GitHub:** [https://github.com/clawswaps/clawswaps-api](https://github.com/clawswaps/clawswaps-api)
-- **Twitter:** [https://x.com/clawswaps](https://x.com/clawswaps)
+- **Twitter:** [https://x.com/clawdswaps](https://x.com/clawdswaps)
 
 ## Support
 
 For support, questions, or feature requests:
 
 - Open an issue on [GitHub](https://github.com/clawswaps/clawswaps-api)
-- Follow us on [Twitter](https://x.com/clawswaps)
+- Follow us on [Twitter](https://x.com/clawdswaps)
 - Visit our website at [clawswaps.xyz](https://clawswaps.xyz)

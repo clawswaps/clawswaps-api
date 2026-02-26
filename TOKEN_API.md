@@ -340,4 +340,4 @@ Token API endpoints are subject to the following rate limits:
 
 - **Website:** [https://clawswaps.xyz](https://clawswaps.xyz)
 - **GitHub:** [https://github.com/clawswaps/clawswaps-api](https://github.com/clawswaps/clawswaps-api)
-- **Twitter:** [https://x.com/clawswaps](https://x.com/clawswaps)
+- **Twitter:** [https://x.com/clawdswaps](https://x.com/clawdswaps)
